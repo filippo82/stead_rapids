@@ -1,2 +1,5 @@
-# stead_rapids
-STanford EArthquake Dataset (STEAD): let's play with it using RAPIDS
+# STanford EArthquake Dataset (STEAD)
+
+STanford EArthquake Dataset (STEAD) [repository](https://github.com/smousavi05/STEAD)
+
+We will use the [RAPIDS](https://rapids.ai/) tools.
